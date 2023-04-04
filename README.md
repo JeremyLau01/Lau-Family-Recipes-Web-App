@@ -1,6 +1,4 @@
 # Lau-Family-Recipes-Web-App
-https://lau-family-recipe-website.web.app/
-
 
 Project Title
 A brief description of your project.
