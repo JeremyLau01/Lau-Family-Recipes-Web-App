@@ -18,19 +18,24 @@ In this section, you should provide an introduction to your project, explaining 
 
 ## Technologies
 
-Here, you should list the technologies that your web app uses, including programming languages, frameworks, libraries, and any other tools or resources. Be sure to mention Firebase Storage, Hosting, and Database.
+Here, you should list the technologies that your web app uses, including programming languages, frameworks, libraries, and any other tools or resources.
 
 - Firebase Storage
 - Firebase Hosting
 - Firebase Database
-- List other technologies used
+- React.js framework
+- React Router DOM framework
+- Node.js
+- Javascript
+- CSS
+- HTML
+- 
 
 ## Features
 
 Key features of your my web app include:
 
 - Real-time data updates
-- React Router DOM framework
 - Integration with other services or APIs
 - List other features
 
