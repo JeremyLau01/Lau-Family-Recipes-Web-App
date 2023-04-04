@@ -22,6 +22,7 @@ Frameworks, technologies, languages and libraries used:
 - Firebase Storage
 - Firebase Hosting
 - React Router DOM framework
+- React Icons
 - Javascript
 - CSS
 - HTML
