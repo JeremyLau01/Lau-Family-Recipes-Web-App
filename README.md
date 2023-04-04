@@ -58,12 +58,12 @@ Key features of my web app include:
 ## Resources Used
 
 If you want to create a similar project, here are some resoureces to help you get started:
-- UI Design Principles [🔗](https://dribbble.com/resources/ui-design-principles)
-- Installing Node.js [🔗](https://nodejs.org/en)
-- React.js Information [🔗](https://react.dev/learn)
-- Firebase Information [🔗](https://firebase.google.com/docs/database)
-- Implementing Email.js [🔗](https://www.emailjs.com/docs/examples/reactjs/)
-- Adding React Icons [🔗](https://react-icons.github.io/react-icons/)
+- [UI Design Principles 🔗](https://dribbble.com/resources/ui-design-principles)
+- [Installing Node.js 🔗](https://nodejs.org/en)
+- [React.js Information 🔗](https://react.dev/learn)
+- [Firebase Information 🔗](https://firebase.google.com/docs/database)
+- [Implementing Email.js 🔗](https://www.emailjs.com/docs/examples/reactjs/)
+- [Adding React Icons 🔗](https://react-icons.github.io/react-icons/)
 
 ## Contact
 
