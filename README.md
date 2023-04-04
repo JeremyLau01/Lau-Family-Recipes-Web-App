@@ -42,11 +42,10 @@ Key features of my web app include:
 ## Resources Used
 
 If you want to create a similar project, here are the best resources I used for this project:
-- Setting up a Firebase project
-- Installing any required dependencies
-- Configuring environment variables
-- Running the app locally
-- Deploying the app to Firebase Hosting
+- Installing Node.js [✓](https://nodejs.org/en)
+- React.js information [✓](https://react.dev/learn)
+- Firebase information [✓](https://firebase.google.com/docs/database)
+- UI Design Principles [✓](https://dribbble.com/resources/ui-design-principles)
 
 ## Contributing
 
