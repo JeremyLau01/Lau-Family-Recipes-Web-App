@@ -41,11 +41,11 @@ Key features of my web app include:
 
 ## Resources Used
 
-If you want to create a similar project, here are the best resources I used for this project:
-- Installing Node.js [→](https://nodejs.org/en)
-- React.js information [→](https://react.dev/learn)
-- Firebase information [→](https://firebase.google.com/docs/database)
-- UI Design Principles [→](https://dribbble.com/resources/ui-design-principles)
+If you want to create a similar project, here are some resoureces to help you get started:
+- UI Design Principles **[→]**(https://dribbble.com/resources/ui-design-principles)
+- Installing Node.js **[→]**(https://nodejs.org/en)
+- React.js information **[→]**(https://react.dev/learn)
+- Firebase information **[→]**(https://firebase.google.com/docs/database)
 
 ## Contributing
 
