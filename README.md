@@ -8,11 +8,15 @@ I created Lau Family Recipes to write down and share my family's recipes with ot
   - [Technologies](#technologies)
   - [Features](#features)
   - [Resources Used](#resources-used)
-  - [Contributing](#contributing)
+  - [Contact](#contact)
   - [License](#license)
 
 ## Introduction
-In this section, you should provide an introduction to your project, explaining what it does and why someone might want to use it. You can also include screenshots or other visual aids to help illustrate your points.
+**Lau Family Recipes** introduces authentic Chinese home cooking recipes from my family to yours. If you want to try a new recipe but do not know where to start, try any of our quick meals. 
+
+As someone who likes to cook, I usually do not need the ingredient list, tons of photos, and an entire essay before the recipe is shown like in other online food blogs. This web app gives my family and anyone interested quick access to recipe instructions that are straight to the point. All you need to know is how much time the dish takes to prepare, and a few pointers about how to put the ingredients together.
+
+The main reason I made this web app was to preserve the Chinese recipes that my family cooks at home. By creating this web app, my family's recipes will last forever and can always be reached quickly in the palm of my hand. This means that my family does not have to look through cabinets and folders for recipes we haven't cooked in a while, or if we need a quick reminder of what to do next, my app gives quick information for the recipe. 
 
 ## Technologies
 Frameworks, technologies, languages and libraries used:
@@ -39,8 +43,10 @@ Applications used:
 ## Features
 
 Key features of my web app include:
-- Real-time data updates
-- Responsive design for all devices
+- Real-time data updates from Firebase's database
+- Fully responsive design optimized for all devices
+- Email.js integration for users to send messsages
+- Component-based design for reusable code
 
 ## Resources Used
 
@@ -52,10 +58,9 @@ If you want to create a similar project, here are some resoureces to help you ge
 - Implementing Email.js [🔗](https://www.emailjs.com/docs/examples/reactjs/)
 - Adding React Icons [🔗](https://react-icons.github.io/react-icons/)
 
-## Contributing
+## Contact
 
 - If you want to send us one of your family recipes for us to try, email us at laufamilyrecipes@gmail.com!
-- For reporting bugs, create a new ____ Reporting bugs and issues
 - For any feedback or suggestions, contact us at laufamilyrecipes@gmail.com
 - For any personal and business inquiries, contact me at jeremylau01@gmail.com 
 
