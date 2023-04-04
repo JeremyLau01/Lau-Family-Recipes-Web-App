@@ -27,11 +27,10 @@ Here, you should list the technologies that your web app uses, including program
 
 ## Features
 
-In this section, you should highlight the key features of your web app. This might include things like:
+Key features of your my web app include:
 
-- User authentication
-- File uploads and downloads
 - Real-time data updates
+- React Router DOM framework
 - Integration with other services or APIs
 - List other features
 
