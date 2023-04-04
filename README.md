@@ -1,5 +1,5 @@
 # Lau Family Recipes Web App
-I created [Lau Family Recipes](https://lau-family-recipe-website.web.app/) to write down and share my family's recipes with others. Most of the recipes are from my dad, mom, grandma, and sister. We cook Asian food almost every night and all of the dishes are easy to prepare.
+I created [Lau Family Recipes](https://lau-family-recipe-website.web.app/) to access my family's recipes from anywhere and share the recipes with others. 
 
 ## Table of Contents
 - [Lau Family Recipes Web App](#lau-family-recipes-web-app)
