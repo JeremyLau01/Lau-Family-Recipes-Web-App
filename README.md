@@ -14,7 +14,7 @@ I created Lau Family Recipes to write down and share my family's recipes with ot
 ## Introduction
 **Lau Family Recipes** is a place to share my family's home recipes with others. 
 
-![home](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/main/HomeSC.png)
+![home](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/e590e166c334551b9ac16837adef8b2154df8b53/RecipeSC.svg)
 
 The main reason I made this web app was to preserve the Chinese recipes that my family cooks at home. By creating this web app, my family's recipes will last forever and will always be in your pocket. This means that my family does not have to look through cabinets and folders for recipes we haven't cooked in a while, or if we need a quick reminder of what to do next, my app gives quick information for the recipe. 
 
