@@ -2,25 +2,20 @@
 I created Lau Family Recipes to write down and share my family's recipes with others. Most of the recipes are from my dad, mom, grandma, and sister. We cook Asian food almost every night and all of the dishes are easy to prepare.
 
 ## Table of Contents
-
-- [Project Title](#project-title)
+- [Lau Family Recipes Web App](#lau-family-recipes-web-app)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Technologies](#technologies)
   - [Features](#features)
-  - [Installation and Usage](#installation-and-usage)
+  - [Resources Used](#resources-used)
   - [Contributing](#contributing)
   - [License](#license)
 
 ## Introduction
-
-
 In this section, you should provide an introduction to your project, explaining what it does and why someone might want to use it. You can also include screenshots or other visual aids to help illustrate your points.
 
 ## Technologies
-
-Here, you should list the technologies that your web app uses, including programming languages, frameworks, libraries, and any other tools or resources.
-
+Technologies used:
 - Firebase Storage
 - Firebase Hosting
 - Firebase Database
@@ -34,7 +29,7 @@ Here, you should list the technologies that your web app uses, including program
 
 ## Features
 
-Key features of your my web app include:
+Key features of my web app include:
 
 - Real-time data updates
 - Integration with other services or APIs
