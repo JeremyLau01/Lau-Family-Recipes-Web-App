@@ -35,9 +35,9 @@ In this section, you should highlight the key features of your web app. This mig
 - Integration with other services or APIs
 - List other features
 
-## Installation and Usage
+## Resources Used
 
-Here, you should provide instructions for installing and using your web app. This might include things like:
+If you want to create something like this web app, here are the best resources I used for this project:
 
 - Setting up a Firebase project
 - Installing any required dependencies
