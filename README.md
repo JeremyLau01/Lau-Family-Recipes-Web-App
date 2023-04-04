@@ -1,6 +1,6 @@
 # Lau Family Recipes Web App
 I made **[Lau Family Recipes](https://lau-family-recipe-website.web.app/)** to easily access and share my family's recipes from anywhere.
-[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)
+[![](imgurl)](https://lau-family-recipe-website.web.app/)
 
 ## Table of Contents
 - [Lau Family Recipes Web App](#lau-family-recipes-web-app)
