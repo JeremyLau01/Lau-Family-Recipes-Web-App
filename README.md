@@ -22,7 +22,7 @@ The main reason I made this web app was to preserve the Chinese recipes that my 
 
 Also, as someone who likes to cook, I usually do not need the extensive ingredient list, photo gallery, and essay before reaching the recipe instructions like in other online food blogs. This web app gives my family and anyone interested quick access to recipe instructions that are straight to the point. All you need to know is how much time the dish takes to prepare along with a few pointers about how to put the ingredients together.
 
-![phoneRecipe](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/main/PhoneSC2.png)
+![phoneRecipe](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/main/PhoneSC1.png)
 
 
 ## Technologies
