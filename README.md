@@ -1,6 +1,6 @@
 # Lau Family Recipes Web App
 I made **[Lau Family Recipes](https://lau-family-recipe-website.web.app/)** to easily access and share my family's recipes from anywhere.
-[![](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/5202778ace796a21af8bcc8fa2e49c0afac8ac3c/Button1.png)](https://lau-family-recipe-website.web.app/)
+[![](https://github.com/JeremyLau01/Lau-Family-Recipes-Web-App/blob/main/Button1.png?raw=true)](https://lau-family-recipe-website.web.app/)
 
 ## Table of Contents
 - [Lau Family Recipes Web App](#lau-family-recipes-web-app)
