@@ -25,6 +25,7 @@ Frameworks, technologies, languages and libraries used:
 - Javascript
 - CSS
 - HTML
+- JSON
 
 Applications used:
 - VS Code - All Code
