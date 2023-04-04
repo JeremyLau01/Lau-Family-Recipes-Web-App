@@ -1,5 +1,5 @@
 # Lau Family Recipes Web App
-I created [Lau Family Recipes](https://lau-family-recipe-website.web.app/) to access my family's recipes from anywhere and share the recipes with others. 
+I made [Lau Family Recipes](https://lau-family-recipe-website.web.app/) to easily access and share my family's recipes from anywhere.
 
 ## Table of Contents
 - [Lau Family Recipes Web App](#lau-family-recipes-web-app)
