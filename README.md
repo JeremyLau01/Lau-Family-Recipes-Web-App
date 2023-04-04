@@ -47,12 +47,10 @@ Here, you should provide instructions for installing and using your web app. Thi
 
 ## Contributing
 
-In this section, you should provide information about how others can contribute to your project. This might include things like:
-
-- Reporting bugs and issues
-- Submitting feature requests
-- Contributing code or documentation
-- Providing feedback or suggestions
+- If you want to send us one of your family recipes for us to try, email us at laufamilyrecipes@gmail.com!
+- For reporting bugs, create a new ____ Reporting bugs and issues
+- For any feedback or suggestions, contact us at laufamilyrecipes@gmail.com
+- For any personal and business inquiries, contact me at jeremylau01@gmail.com 
 
 ## License
 
