@@ -55,7 +55,4 @@ If you want to create a similar project, here are some resoureces to help you ge
 - For any personal and business inquiries, contact me at jeremylau01@gmail.com 
 
 ## License
-
-In this section, you should include information about the license under which your project is released. Be sure to choose a license that is appropriate for your project and that you are comfortable with others using and modifying your code.
-
-[License name and link to license file]
+[MIT](https://choosealicense.com/licenses/mit/)
