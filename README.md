@@ -67,9 +67,8 @@ If you want to create a similar project, here are some resoureces to help you ge
 
 ## Contact
 
-- If you want to send us one of your family recipes for us to try, email us at laufamilyrecipes@gmail.com!
-- For any feedback or suggestions, contact us at laufamilyrecipes@gmail.com
-- For any personal and business inquiries, contact me at jeremylau01@gmail.com 
+- If you want to send us one of your family recipes for us to try, contact us at laufamilyrecipes@gmail.com
+- For personal and business inquiries, contact me at jeremylau01@gmail.com 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
