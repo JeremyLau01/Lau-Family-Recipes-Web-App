@@ -18,6 +18,7 @@ In this section, you should provide an introduction to your project, explaining 
 Frameworks, technologies, languages and libraries used:
 - React.js
 - Node.js
+- Email.js
 - Firebase Realtime Database
 - Firebase Storage
 - Firebase Hosting
