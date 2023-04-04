@@ -12,11 +12,11 @@ I created Lau Family Recipes to write down and share my family's recipes with ot
   - [License](#license)
 
 ## Introduction
-**Lau Family Recipes** introduces authentic Chinese home cooking recipes from my family to yours. If you want to try a new recipe but do not know where to start, try any of our quick meals. 
-
-As someone who likes to cook, I usually do not need the ingredient list, tons of photos, and an entire essay before the recipe is shown like in other online food blogs. This web app gives my family and anyone interested quick access to recipe instructions that are straight to the point. All you need to know is how much time the dish takes to prepare, and a few pointers about how to put the ingredients together.
+**Lau Family Recipes** is a place to share my family's home recipes with others. 
 
 The main reason I made this web app was to preserve the Chinese recipes that my family cooks at home. By creating this web app, my family's recipes will last forever and can always be reached quickly in the palm of my hand. This means that my family does not have to look through cabinets and folders for recipes we haven't cooked in a while, or if we need a quick reminder of what to do next, my app gives quick information for the recipe. 
+
+Also, as someone who likes to cook, I usually do not need the ingredient list, tons of photos, and an entire essay before the recipe is shown like in other online food blogs. This web app gives my family and anyone interested quick access to recipe instructions that are straight to the point. All you need to know is how much time the dish takes to prepare along with a few pointers about how to put the ingredients together.
 
 ## Technologies
 Frameworks, technologies, languages and libraries used:
