@@ -1,5 +1,5 @@
 # Lau Family Recipes Web App
-I made **[Lau Family Recipes](https://lau-family-recipe-website.web.app/)** to easily access and share my family's recipes from anywhere.
+I made **Lau Family Recipes** to easily access and share my family's recipes from anywhere.
 
 
 [![](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/main/Button2.png)](https://lau-family-recipe-website.web.app/)
