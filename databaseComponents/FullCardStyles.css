@@ -1,0 +1,111 @@
+.item4 { grid-area: photo; width: 35vw;}
+.item5 { grid-area: instructions; width: 45vw;}
+
+.grid-container4 {
+  display: grid;
+  grid-template-areas:
+    'instructions photo';
+  grid-gap: 5vw;
+}
+
+.grid-container4 > div {
+  background-color: transparent;
+}
+
+.fullCardImg{
+  width: 100%;
+}
+
+@media screen and (max-width: 800px){ /*1089*/
+  .grid-container4 {
+    display: grid;
+    grid-template-areas:
+      'instructions'
+      'photo';
+  }
+  .forminput{
+    padding-top: 1%;
+  }
+
+  .item5{
+    width: 90%; 
+    margin-left: 5vw;
+  }
+  .item4{
+    pointer-events: none;
+    position: absolute;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: -1;
+    filter: opacity(20%);
+    opacity: 0;
+  }
+  section{
+    min-height: 10vh;
+  }
+}
+
+@media screen and (orientation: landscape) and (max-width: 1000px){
+  .grid-container4 {
+    display: grid;
+    grid-template-areas:
+      'instructions'
+      'photo';
+  }
+  .forminput{
+    padding-top: 1%;
+  }
+
+  .item5{
+    width: 90%; 
+    margin-left: 5vw;
+    margin-top: 20vh;
+  }
+  #cookTimeStyle{
+    font-size: var(--fs-500);
+  }
+  #fullCardName{
+    font-size: var(--fs-500);
+  }
+  #eachInstruction{
+    font-size: var(--fs-small);
+  }
+  .item4{
+    pointer-events: none;
+    position: absolute;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: -1;
+    filter: opacity(20%);
+    opacity: 0;
+  }
+
+}
+
+section {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+}
+
+.fullCard{
+  width: 100%;
+  height: fit-content;
+  color: var(--white);
+  display: flex;
+}
+
+
+#cookTimeStyle{
+  padding-bottom: 2%;
+}
+
+.eachInstruction{
+  margin-top: 0%;
+}
+
+.backbutton{
+margin-top: 3%;
+}

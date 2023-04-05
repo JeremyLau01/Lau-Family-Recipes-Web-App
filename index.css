@@ -1,0 +1,219 @@
+/*DEFINE ALL CSS VARIABLES HERE - for colors*/
+:root{
+  /*Colors */
+  --form: rgb(141, 141, 141);
+  --white: #fdfdfd;
+  --black: #212427;
+  --light-black: #3a3a3a;
+  --orange: #ec8920;
+  --dark-orange: #8B4000;
+  --green: #739169;
+  --hover: rgba(255, 255, 255, 0.2);
+
+  /*Font Sizes*/
+  --fs-xl: clamp(3.5rem, calc(12vw + 1rem), 8rem);
+  --fs-600: 2rem;
+  --fs-500: 1.5rem;
+  --fs-450: 1.25rem;
+  --fs-400: 1rem;
+
+  --fs-small: 0.8rem;
+}
+
+@media (min-width: 40em){
+  :root {
+  --fs-600: 3rem;
+  --fs-500: 2rem;
+  --fs-450: 1.5rem;
+  --fs-400: 1.2rem;
+
+  --fs-small: 1rem;
+  }
+}
+
+/*Outfit - navbar */
+/*Roboto Serif - logo, text*/
+/*Roboto - long text*/
+/*Montserrat - form*/
+/*Lora - form button*/
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,500;0,8..144,600;0,8..144,700;0,8..144,800;0,8..144,900;1,8..144,100;1,8..144,200;1,8..144,300;1,8..144,400;1,8..144,500;1,8..144,600;1,8..144,700;1,8..144,800;1,8..144,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  background: var(--white);
+}
+
+
+/* global styles 1 or 2 could be diff*/
+/*Recipes that last forever, logo (header, footer)*/
+h1{
+  font-family: 'Roboto Serif', serif;
+  color: var(--orange);
+  font-size: var(--fs-600);
+}
+
+/*Our fav dishes, homeQs, checkout our recipes, cook time,  Send me a message,*/
+h2{
+  font-family: 'Roboto Serif', serif;
+  color: var(--light-black);
+  font-size: var(--fs-500);
+}
+
+/*Lets chat***, about me, recipe name fullcard*/
+h3{
+  font-family: 'Roboto Serif', serif;
+  color: var(--light-black);
+  font-size: var(--fs-600);
+}
+
+/*Hi im Jeremy*/
+h4{
+  font-family: 'Roboto Serif', serif;
+  color: var(--light-black);
+  font-size: var(--fs-400);
+  font-weight: 500;
+}
+
+/*home answers, labels for recipe cards (both pages), Recipe instructions, @JeremyLau01, Required: , I created Lau…, Footer “find a page”*/
+h5{
+  font-family: 'Roboto Serif', serif;
+  color: var(--light-black);
+  font-size: var(--fs-400);
+  font-weight: 500;
+}
+
+/*Nav bar, footer nav links*/
+h6{
+  font-family: 'Outfit', sans-serif;
+  color: var(--light-black);
+  font-size: var(--fs-400);
+}
+
+/*button text*/
+p{
+  font-family: 'Outfit', sans-serif;
+  color: var(--white);
+  font-size: var(--fs-400);
+}
+
+
+#logoTxtSize{
+  font-size: var(--fs-500);
+  padding-bottom: 2%;
+}
+
+#Name{
+  font-size: var(--fs-400);
+}
+
+#Email{
+  font-size: var(--fs-400);
+}
+
+#Message{
+  font-size: var(--fs-400);
+}
+
+#Send{
+  font-size: var(--fs-400);
+}
+
+#warning-txt{
+  padding-top: 1%;
+  text-align: center;
+  font-size: var(--fs-small);
+}
+
+#sendme{
+  font-weight: 500;
+}
+
+#greenline{
+  color: var(--green);
+}
+
+#OrgTxt{
+  font-family: 'Roboto Serif', serif;
+  color: var(--orange);
+}
+
+#OrgTxt:hover{
+  color: var(--dark-orange);
+  transition: 0.15s;
+}
+
+#bva{
+  font-family: 'Outfit', sans-serif;
+  color: var(--white);
+  font-size: var(--fs-small);
+}
+
+#hovText{
+  font-weight: 500;
+}
+#hovText:hover{
+  color: var(--form);
+  transition: 0.15s;
+}
+
+#hovRecipeText{
+  font-weight: 700;
+  font-size: var(--fs-450);
+}
+#hovRecipeText:hover{
+  color: var(--form);
+  transition: 0.15s;
+}
+
+#hovFooterText{
+  font-weight: 500;
+  font-family: 'Roboto Serif', serif;
+}
+#hovFooterText:hover{
+  color: var(--form);
+  transition: 0.15s;
+}
+
+
+
+#findapage{
+  padding-bottom: 1.5%;
+  font-weight: 600;
+}
+/* global styles */
+
+
+a{
+  color: var(--black);
+  font-family: 'Roboto Serif', serif;
+  text-decoration: none;
+}
+
+ul{
+  list-style-type: none;
+}
+
+
+
+/* can change */
+.btn {
+  border-radius: 6px;
+  padding: 8px 24px;
+  font-size: 1.1rem;
+  background: var(--orange);
+  color: var(--white);
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: var(--hover);
+  color: var(--white);
+  transition: 0.3s;
+}

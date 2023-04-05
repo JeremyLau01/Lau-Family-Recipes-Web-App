@@ -1,0 +1,10 @@
+.famphoto{
+  width: 60%;
+}
+
+
+@media screen and (max-width: 1089px){
+  .contImg{
+    opacity: 0;
+  }
+}

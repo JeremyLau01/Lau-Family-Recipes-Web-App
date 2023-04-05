@@ -1,0 +1,81 @@
+.aboutme{
+  width: 100%;
+  height: 100%;
+  padding: 1rem 0;
+  /*background-color: hsl(0, 0%, 99%);*/
+  margin-bottom: 100vh;
+}
+
+.polaroid{
+  width: 100%;
+  filter: drop-shadow(0 0 0.75rem var(--form));
+}
+
+.aboutme-container{
+  max-width: 1140 px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 40px;
+}
+
+.left{
+  height: 100%;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 4rem;
+  text-align: left;
+}
+
+.right{
+  height: 100%;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.imageparent{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.aboutme-container{
+  position: absolute;
+  top: 15%;
+}
+
+/*
+.orangeText{
+  color: var(--orange);
+}
+
+.orangeText:hover{
+  color: var(--dark-orange);
+}*/
+
+.linebreak{
+  color: var(--green);
+}
+
+@media screen and (max-width: 1089px){
+  .aboutme-container{
+    grid-template-columns: 1fr;
+  }
+
+  .polaroid{
+    opacity: 0;
+    width: 0%;
+  }
+
+  .right{
+    opacity:10;
+    z-index: -1;
+  }
+  .selfie{
+    width: 1px;
+  }
+}
+

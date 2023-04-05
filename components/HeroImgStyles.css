@@ -1,0 +1,66 @@
+/*Roboto Serif - logo, text*/
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,500;0,8..144,600;0,8..144,700;0,8..144,800;0,8..144,900;1,8..144,100;1,8..144,200;1,8..144,300;1,8..144,400;1,8..144,500;1,8..144,600;1,8..144,700;1,8..144,800;1,8..144,900&display=swap');
+
+.mask{
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+.into-img{
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+}
+
+.white{
+  color: var(--white);
+  font-family: 'Roboto Serif', serif;
+}
+
+.mask::after{
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #000;
+  opacity: 0.5;
+}
+
+.hero{
+  height: 100%;
+  width: 100%;
+}
+
+.hero .content{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 20%;
+  text-align: left;
+}
+
+.hero .content{
+  font-size: 2rem;
+  padding: 0.6rem 0 1.5rem;
+}
+
+input{
+  text-align: left;
+}
+
+@media screen and (max-width: 640px){
+  .hero .content{
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 900px){
+  .hero .content{
+    left: 30%;
+  }
+}

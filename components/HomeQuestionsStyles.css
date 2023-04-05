@@ -1,0 +1,27 @@
+.questions{
+  background-color: var(--white);
+}
+
+.qdiv1{
+  padding-top: 4%;
+  padding-bottom: 2%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.qdiv2{
+  padding-top: 2%;
+  padding-bottom: 4%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#atxt{
+  padding-top: 2%;
+}
+
+hr.homebreak{
+  border: 3px solid var(--light-black);
+  border-radius: 3px;
+  margin: 50px 100px;
+}

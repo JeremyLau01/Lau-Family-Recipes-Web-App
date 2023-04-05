@@ -1,0 +1,21 @@
+.raintrees{
+  width: 50%;
+  position: absolute;
+  right: 0px;
+  height: auto;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.grid-item {
+  text-align: center;
+}
+
+
+@media screen and (max-width: 1089px){
+  .raintrees{
+    opacity: 0;
+  }
+}

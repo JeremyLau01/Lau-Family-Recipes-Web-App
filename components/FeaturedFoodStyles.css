@@ -1,0 +1,50 @@
+.featuredfood-grid-container {
+  display: grid;
+  padding-top: 5%;
+  grid-template-columns: auto auto auto auto;
+  
+  /*getting that "equal spacing"*/
+  padding-left: 3.5%;
+  padding-right: 3.5%;
+  
+}
+.featuredfood-grid-item {
+  text-align: center;
+  padding-bottom: 10%;
+}
+
+
+.viewRecipes{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+}
+
+
+.btnViewAll {
+  border-radius: 6px;
+  border: none;
+  padding: 8px 24px;
+  font-size: 0.9rem;
+  background: var(--orange);
+  color: var(--white);
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.btnViewAll:hover {
+  background: rgba(255, 133, 11, 0.5);
+  color: var(--white);
+  transition: 0.3s;
+}
+
+.featuredFoodImg{
+  width: 74%;
+}
+
+@media screen and (max-width: 1089px){
+  .featuredfood-grid-container{
+    grid-template-columns: auto auto;
+  }
+}

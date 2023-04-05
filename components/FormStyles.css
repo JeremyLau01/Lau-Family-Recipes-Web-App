@@ -1,0 +1,79 @@
+.item1 { grid-area: header; }
+.item2 { grid-area: menu; }
+.item3 { grid-area: footer; }
+
+
+.grid-container3 {
+  display: grid;
+  grid-template-areas:
+    'header footer'
+    'menu footer';
+  padding: 2vh;
+  padding-top: 10vh;
+  margin-bottom: 50vh;
+}
+
+.grid-container3 > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+
+
+
+.forminput{
+  padding-top: 10%;
+}
+
+/* Format for form n stuff*/
+form input, form textarea{
+  margin-bottom: 1rem;
+  background-color: var(--white);
+  caret-color: var(--form);
+  color: var(--form);
+  border-color: transparent transparent var(--form) transparent;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 auto;
+  display: block;
+
+  padding-top: 5%;
+}
+.btnSend {
+  border: none;
+  background-color: transparent;
+  color: var(--form);
+  font-weight: 400;
+  cursor: pointer;
+  font-family: 'Lora', serif;
+  font-style: italic;
+  width: fit-content;
+}
+.btnSend:hover {
+  color: var(--black);
+  transition: 0.3s;
+}
+/*Get rid of big box*/
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+}
+
+
+@media screen and (max-width: 1089px){
+  .grid-container3 {
+    display: grid;
+    grid-template-areas:
+      'header'
+      'menu'
+      'footer';
+  }
+  .forminput{
+    padding-top: 1%;
+  }
+  .item1{
+    margin-top: 5%;
+  }
+}
