@@ -2,7 +2,7 @@
 I made **Lau Family Recipes** to easily access and share my family's recipes from anywhere.
 
 
-[![](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/ad26bc2296aed8127b9b0e1bcb23474a9ca3a19d/btnnew.svg)](https://lau-family-recipe-website.web.app/)
+[![](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/d9e622dca4c233b7e192c61838a46cd8906f59eb/RMimgs/btnnew.svg)](https://lau-family-recipe-website.web.app/)
 
 ## Table of Contents
 - [Lau Family Recipes Web App](#lau-family-recipes-web-app)
@@ -18,15 +18,15 @@ I made **Lau Family Recipes** to easily access and share my family's recipes fro
 ## Introduction
 **Lau Family Recipes** is a place to share my family's home recipes with others. 
 
-![home](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/e590e166c334551b9ac16837adef8b2154df8b53/HomeSC.svg)
+![home](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/d9e622dca4c233b7e192c61838a46cd8906f59eb/RMimgs/HomeSC.svg)
 
 I made this web app to preserve the Chinese recipes that my family cooks at home. By creating this web app, my family's recipes will last forever and will always be in your pocket. This means that my family does not have to look through cabinets and folders for recipes we haven't cooked in a while, or if we need a quick reminder of what to do next, my app gives quick information for the recipe. 
 
-![recipe](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/e590e166c334551b9ac16837adef8b2154df8b53/RecipeSC.svg)
+![recipe](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/d9e622dca4c233b7e192c61838a46cd8906f59eb/RMimgs/RecipeSC.svg)
 
 Also, as someone who likes to cook, I usually do not need the extensive ingredient list, photo gallery, and essay before reaching the recipe instructions like in other online food blogs. This web app gives my family and anyone interested quick access to recipe instructions that are straight to the point. All you need to know is how much time the dish takes to prepare along with a few pointers about how to put the ingredients together.
 
-![phoneRecipe](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/main/PhoneSC1.png)
+![phoneRecipe](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/main/RMimgs/PhoneSC1.png)
 
 
 ## Technologies
