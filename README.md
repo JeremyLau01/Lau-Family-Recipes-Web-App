@@ -19,7 +19,7 @@ I made **Lau Family Recipes** to easily access and share my family's recipes fro
 
 ![home](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/e590e166c334551b9ac16837adef8b2154df8b53/HomeSC.svg)
 
-The main reason I made this web app was to preserve the Chinese recipes that my family cooks at home. By creating this web app, my family's recipes will last forever and will always be in your pocket. This means that my family does not have to look through cabinets and folders for recipes we haven't cooked in a while, or if we need a quick reminder of what to do next, my app gives quick information for the recipe. 
+I made this web app to preserve the Chinese recipes that my family cooks at home. By creating this web app, my family's recipes will last forever and will always be in your pocket. This means that my family does not have to look through cabinets and folders for recipes we haven't cooked in a while, or if we need a quick reminder of what to do next, my app gives quick information for the recipe. 
 
 ![recipe](https://raw.githubusercontent.com/JeremyLau01/Lau-Family-Recipes-Web-App/e590e166c334551b9ac16837adef8b2154df8b53/RecipeSC.svg)
 
