@@ -70,9 +70,9 @@ If you want to create a similar project, here are some resoureces to help you ge
 - [Adding React Icons 🔗](https://react-icons.github.io/react-icons/)
 
 ## Notes About Code
-Only src folder files uploaded in this repository. Selected code is meant to give insight into how the web app and components were built, not meant to be cloned and downloaded for other reasons besides looking at code structure. No HTML, JSON, and other files included from the React project. Files omitted from source folder in this public repository:
-- Form.js
-- firebaseConfig.js
+Only src folder files uploaded in this repository. Selected code is meant to give insight into how the web app and components were built, not meant to be cloned and downloaded for other reasons besides looking at code structure. No HTML, JSON, and other files included from the React project. Files altered from source folder in this public repository include:
+- Form.js (where use Email.js)
+- firebaseConfig.js (where API keys are stored)
 
 ## Contact
 
