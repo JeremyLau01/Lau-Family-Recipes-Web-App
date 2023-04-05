@@ -74,7 +74,7 @@ Files omitted from public repository:
 - Form.js
 - firebaseConfig.js
 
-Files uploaded are the components and styles I coded for this web app.
+Files uploaded are the components and styles I coded for this web app. Selected code is meant to give insight into how the web app and components were built, not meant to be cloned and downloaded for other reasons besides looking at code structure. 
 
 ## Contact
 
