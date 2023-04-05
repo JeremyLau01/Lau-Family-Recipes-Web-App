@@ -11,6 +11,7 @@ I made **Lau Family Recipes** to easily access and share my family's recipes fro
   - [Technologies](#technologies)
   - [Features](#features)
   - [Resources Used](#resources-used)
+  - [Notes About Code](#notes-about-code)
   - [Contact](#contact)
   - [License](#license)
 
@@ -67,6 +68,13 @@ If you want to create a similar project, here are some resoureces to help you ge
 - [Firebase Information 🔗](https://firebase.google.com/docs/database)
 - [Implementing Email.js 🔗](https://www.emailjs.com/docs/examples/reactjs/)
 - [Adding React Icons 🔗](https://react-icons.github.io/react-icons/)
+
+## Notes About Code
+Files omitted from public repository:
+- Form.js
+- firebaseConfig.js
+
+Files uploaded are the components and styles I coded for this web app.
 
 ## Contact
 
