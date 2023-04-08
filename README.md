@@ -56,7 +56,7 @@ Applications used:
 Key features of my web app include:
 - Real-time data updates from Firebase's database
 - Fully responsive design optimized for all devices
-- Email.js integration for users to send messsages
+- Email.js integration for users to send messages
 - Component-based design for reusable code
 
 ## Resources Used
